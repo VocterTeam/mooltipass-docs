@@ -1,5 +1,7 @@
 # Mooltipass Browser Extension [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
+<img src="https://www.themooltipass.com/ressources/logo_inverted.png" />
+
 This is the Mooltipass extension, which will be the interface between the websites you visit and your Mooltipass device
 
 ## Browser support
