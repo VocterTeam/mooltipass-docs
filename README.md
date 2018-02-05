@@ -2,7 +2,8 @@
 
 <img src="https://www.themooltipass.com/ressources/logo_inverted.png" />
 
-This is the Mooltipass extension, which will be the interface between the websites you visit and your Mooltipass device
+This is the Mooltipass extension, which will be the interface between
+the websites you visit and your Mooltipass device
 
 ## Browser support
 
@@ -29,8 +30,13 @@ Clicking on it will display a menu.
 
 <img src="./images/user-manual-device-status.jpg" alt="device-status" />
 
+The device status is displayed on the extension 
+menu bottom right corner. 
+
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Pull requests are welcome. For major changes, please open an issue
+first to discuss what you would like to change.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
