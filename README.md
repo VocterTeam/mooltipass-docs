@@ -33,6 +33,14 @@ Clicking on it will display a menu.
 The device status is displayed on the extension 
 menu bottom right corner. 
 
+###  Password Generator and Credential Storage 
+
+<img src="./images/user-manual-password-generator.jpg" alt="password-generator" />
+
+By clicking on the key icon inside a password field, you can bring up the Mooltipass password generator.
+In the rare cases where the 
+extension doesn’t pick up a credential submit event, you may also use this menu to manually trigger a credential storage procedure. 
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue
