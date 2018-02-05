@@ -2,4 +2,4 @@
 
 Native Integration on Multiple Browsers
 
-![Alt text](images/chrome.svg?raw=true "Title")
+<img src="images/chrome.svg" alt="chrome" width="30px" height="30px" />
