@@ -9,6 +9,10 @@ the websites you visit and your Mooltipass device
 
 <img src="https://www.themooltipass.com/images/gallery/safari-chrome-ff.png" />
 
+[Chrome](https://chrome.google.com/webstore/detail/mooltipass-extension/ffemldjbbfhimggdkkckolidemlllklk)
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/mooltipass-extension/)
+[Safari](https://safari-extensions.apple.com/details/?id=com.stephanelectronics.mooltipass-KC7DELHDSA)
+
 ## The Mooltipass Project
 
 With time, logins and passwords have become critical elements we need to remember to access the different websites and services we use daily. If we want to achieve good security, each of these credential sets should be unique.
