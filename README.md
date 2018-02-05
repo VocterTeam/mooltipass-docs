@@ -56,9 +56,9 @@ When it finds them, it displays a key icon in the password field, as shown above
 In the rare case the credential fields aren’t
 picked up, you may tell the app about them by clicking this item in the extension menu.
 
-<img src="./images/user-manual-extension-settings.jpg" alt="extension-settings" />
+<img src="./images/user-manual-username-field.jpg" alt="username-field" />
 
-Follow the on-screen instructions to select the username and password fieldsz
+Follow the on-screen instructions to select the username and password fields
 
 ### Extension Settings
 
