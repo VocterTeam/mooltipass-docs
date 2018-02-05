@@ -1,1 +1,1 @@
-# mooltipass-docs
+# Mooltipass Browser Extension
