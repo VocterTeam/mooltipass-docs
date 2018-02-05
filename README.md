@@ -46,6 +46,20 @@ By clicking on the key icon inside a password field, you can bring up the Moolti
 In the rare cases where the 
 extension doesn’t pick up a credential submit event, you may also use this menu to manually trigger a credential storage procedure. 
 
+### Selecting Custom Credential Fields 
+
+<img src="./images/user-manual-credential-fields.jpg" alt="credential-fields" />
+
+The Mooltipass extension searches for credential fields in the web pages you visit. 
+When it finds them, it displays a key icon in the password field, as shown above. 
+
+In the rare case the credential fields aren’t
+picked up, you may tell the app about them by clicking this item in the extension menu.
+
+<img src="./images/user-manual-username-field.jpg" alt="username-field" />
+
+Follow the on-screen instructions to select the username and password fields
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue
