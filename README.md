@@ -6,5 +6,9 @@ This is the Mooltipass extension, which will be the interface between the websit
 
 <img src="https://www.themooltipass.com/images/gallery/safari-chrome-ff.png" />
 
+## The Mooltipass Project
+
+The Mooltipass is a standalone device connected through USB, is completely driver-less and is compatible with all major operating systems on PCs, Macs and Smartphones. It therefore is extremely simple to use our device
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
