@@ -56,13 +56,13 @@ When it finds them, it displays a key icon in the password field, as shown above
 In the rare case the credential fields aren’t
 picked up, you may tell the app about them by clicking this item in the extension menu.
 
-<img src="./images/user-manual-extenstion-settings.jpg" alt="username-field" />
+<img src="./images/user-manual-extension-settings.jpg" alt="extension-settings" />
 
 Follow the on-screen instructions to select the username and password fieldsz
 
 ### Extension Settings
 
-<img src="./images/user-manual-extenstion-settings.jpg" alt="extenstion-settings" />
+<img src="./images/user-manual-extension-settings.jpg" alt="extension-settings" />
 
 You may bring up the Mooltipass extension settings 
 page by clicking on the dedicated item in the extension menu.
