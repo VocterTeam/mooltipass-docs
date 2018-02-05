@@ -10,8 +10,11 @@ the websites you visit and your Mooltipass device
 <img src="https://www.themooltipass.com/images/gallery/safari-chrome-ff.png" />
 
 [Chrome](https://chrome.google.com/webstore/detail/mooltipass-extension/ffemldjbbfhimggdkkckolidemlllklk)
+
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/mooltipass-extension/)
+
 [Safari](https://safari-extensions.apple.com/details/?id=com.stephanelectronics.mooltipass-KC7DELHDSA)
+
 
 ## The Mooltipass Project
 
