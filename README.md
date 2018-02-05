@@ -16,6 +16,8 @@ The Mooltipass is a standalone device connected through USB, is completely drive
 
 ## Usage
 
+###  Extension Menu 
+
 <img src="./images/user-manual-extension-menu.jpg" alt="extension-menu" />
 
 In Chrome, Firefox or Safari, the Mooltipass icon
@@ -23,6 +25,9 @@ may be found next to your address bar.
 
 Clicking on it will display a menu. 
 
+###  Device Status 
+
+<img src="./images/user-manual-device-status.jpg" alt="device-status" />
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
