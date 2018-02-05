@@ -5,3 +5,6 @@ This is the Mooltipass extension, which will be the interface between the websit
 ## Browser support
 
 <img src="https://www.themooltipass.com/images/gallery/safari-chrome-ff.png" />
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
