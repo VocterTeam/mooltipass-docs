@@ -56,9 +56,28 @@ When it finds them, it displays a key icon in the password field, as shown above
 In the rare case the credential fields aren’t
 picked up, you may tell the app about them by clicking this item in the extension menu.
 
-<img src="./images/user-manual-username-field.jpg" alt="username-field" />
+<img src="./images/user-manual-extenstion-settings.jpg" alt="username-field" />
 
-Follow the on-screen instructions to select the username and password fields
+Follow the on-screen instructions to select the username and password fieldsz
+
+### Extension Settings
+
+<img src="./images/user-manual-extenstion-settings.jpg" alt="extenstion-settings" />
+
+You may bring up the Mooltipass extension settings 
+page by clicking on the dedicated item in the extension menu.
+
+Among other things, the settings page will allow 
+you to manage your blacklisted websites and the ones for which you have stored custom credential fields.
+
+### Reporting Incompatibilities
+
+<img src="./images/user-manual-reporting-incompatibilities.jpg" alt="reporting-incompatibilities" />
+
+The Mooltipass team actively works to ensure the 
+extension works with all the websites you visit. If you find a website that it does not work with, we'd like to know about it
+
+To report an incompatibility, please click on the dedicated link in our extension menu. 
 
 ## Contributing
 
