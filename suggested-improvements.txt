@@ -1,3 +1,8 @@
 1. It would be great if extension menu has nice icons for each menu item. 
 For example when user opens the extension menu it's hard to detect which menu item need (https://raw.githubusercontent.com/VocterTeam/mooltipass-docs/dev/images/user-manual-extension-menu.jpg)
-2. 
+2. There's a lot of small icons/images using in extension (https://github.com/limpkin/mooltipass/tree/master/chrome_extension/images, https://github.com/limpkin/mooltipass/tree/master/chrome_extension/icons) I think it's a good idea to use svg sprites for it. Just one file for all icons. Alternatively we could use png sprite but SVG will be preferable
+3. Also we could reduce the size of the extenstion by minimizing files: js, css
+4. I think we could add some functionality to ask user if he really wants to remove the credential (https://image.prntscr.com/image/lB7Pgw91QqKKiyfEFa346Q.png) Because i've remove one accidentally.
+5. Looks like the footer is collapsed (https://image.prntscr.com/image/5UmcDL-7R3SAQ8L1HipYog.png) This issue is related to float behavior. We could add "clearfix" to this element.
+6. What build-system are you using on this project? Maybe you could try some of those: Gulp, Webpack, etc. These tools are very helpfull in case you have many modules, dependencies, etc.
+7. 
