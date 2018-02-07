@@ -5,4 +5,5 @@ For example when user opens the extension menu it's hard to detect which menu it
 4. I think we could add some functionality to ask user if he really wants to remove the credential (https://image.prntscr.com/image/lB7Pgw91QqKKiyfEFa346Q.png) Because i've remove one accidentally.
 5. Looks like the footer is collapsed (https://image.prntscr.com/image/5UmcDL-7R3SAQ8L1HipYog.png) This issue is related to float behavior. We could add "clearfix" to this element.
 6. What build-system are you using on this project? Maybe you could try some of those: Gulp, Webpack, etc. These tools are very helpfull in case you have many modules, dependencies, etc.
-7. 
+7. When we add current website to the blacklist the extension close. It's a bit confusing (https://image.prntscr.com/image/IpR5V4geR2uaAgi_ML4iNw.png) It would be great to show some kind of notification in that case.
+8. Also it would be great to get some notification in case we click on "Open Mooltipass App" menu (in case i haven't got any App installed) (https://image.prntscr.com/image/nH4sHRhmSn21Is_qCReu6g.png)
